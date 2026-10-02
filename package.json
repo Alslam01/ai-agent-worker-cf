@@ -1,0 +1,9 @@
+{
+  "name": "ai-agent-worker-cf",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "deploy": "npx --yes wrangler deploy"
+  }
+}
