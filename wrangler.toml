@@ -1,3 +1,5 @@
 name = "ai-agent-worker-cf"
 main = "worker_v5_8_1.js"
 compatibility_date = "2025-09-01"
+[ai]
+binding = "AI"
